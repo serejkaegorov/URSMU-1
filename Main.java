@@ -5,7 +5,7 @@ public class Main {
 
 
     public static void selectionSort(int[] arr){
-
+fdsfdsfds
         for (int i = 0; i < arr.length; i++) {
 
             int min = arr[i];
